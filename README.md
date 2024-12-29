@@ -1,9 +1,12 @@
 1)create and run database products_shopping 
+
+
 2) Change configuration in application.properties file
     # MySQL Configuration
     spring.datasource.url=jdbc:mysql://localhost:3306/products_shopping 
     spring.datasource.username=admin -> write your user
     spring.datasource.password=admin -> write your password
+
 
 
 3) iN WebConfig.java file write your front-end adress
